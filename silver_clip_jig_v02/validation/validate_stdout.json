@@ -1,0 +1,205 @@
+{
+  "geometry": {
+    "outside_mm": [
+      8.0,
+      29.0
+    ],
+    "theoretical_centerline_length_mm": 92.3473430653209,
+    "sampled_length_mm": 92.34703404046327,
+    "mass_g": 0.7514049324911005,
+    "segments_mm": [
+      12.0,
+      5.497787143782138,
+      16.0,
+      7.853981633974483,
+      22.0,
+      10.995574287564276,
+      18.0
+    ],
+    "material_marks_from_trimmed_start_mm": [
+      0.0,
+      12.0,
+      17.497787143782137,
+      33.49778714378213,
+      41.35176877775662,
+      63.35176877775662,
+      74.3473430653209,
+      92.3473430653209
+    ],
+    "nonadjacent_gaps": [
+      {
+        "pair": [
+          0,
+          2
+        ],
+        "surface_gap_mm": 2.5
+      },
+      {
+        "pair": [
+          0,
+          3
+        ],
+        "surface_gap_mm": 3.272001872658765
+      },
+      {
+        "pair": [
+          0,
+          4
+        ],
+        "surface_gap_mm": 0.5
+      },
+      {
+        "pair": [
+          0,
+          5
+        ],
+        "surface_gap_mm": 5.18465843842649
+      },
+      {
+        "pair": [
+          0,
+          6
+        ],
+        "surface_gap_mm": 4.5
+      },
+      {
+        "pair": [
+          1,
+          3
+        ],
+        "surface_gap_mm": 15.0
+      },
+      {
+        "pair": [
+          1,
+          4
+        ],
+        "surface_gap_mm": 0.5
+      },
+      {
+        "pair": [
+          1,
+          5
+        ],
+        "surface_gap_mm": 4.073735281453221
+      },
+      {
+        "pair": [
+          1,
+          6
+        ],
+        "surface_gap_mm": 1.0
+      },
+      {
+        "pair": [
+          2,
+          4
+        ],
+        "surface_gap_mm": 4.0
+      },
+      {
+        "pair": [
+          2,
+          5
+        ],
+        "surface_gap_mm": 5.324555320336759
+      },
+      {
+        "pair": [
+          2,
+          6
+        ],
+        "surface_gap_mm": 1.0
+      },
+      {
+        "pair": [
+          3,
+          5
+        ],
+        "surface_gap_mm": 21.0
+      },
+      {
+        "pair": [
+          3,
+          6
+        ],
+        "surface_gap_mm": 3.4721359549995796
+      },
+      {
+        "pair": [
+          4,
+          6
+        ],
+        "surface_gap_mm": 6.0
+      }
+    ],
+    "simple_continuous": true
+  },
+  "motion": [
+    {
+      "stage": "A",
+      "samples": 721,
+      "angle_range_deg": [
+        0,
+        180
+      ],
+      "former_to_earlier_wire_gap_mm": null,
+      "minimum_clearance_mm": {
+        "earlier_wire_to_moving_arc": null,
+        "earlier_wire_to_tail": null,
+        "fixed_wire_to_pusher": 0.18174242292714293,
+        "other_wire_to_clamp": 2.3500000000000005,
+        "tail_to_incoming_away_from_join": 1.0,
+        "pusher_to_clamp": 7.509297964661915
+      },
+      "takeup_deg": 13.08735266455403,
+      "last_sampled_safe_compensation_deg": 11.8,
+      "first_collision_compensation_deg": 11.850000000000001,
+      "notes": "0.25 degree ideal inextensible wire steps; pusher vs current bent wire is intentional contact; no material simulation"
+    },
+    {
+      "stage": "B",
+      "samples": 721,
+      "angle_range_deg": [
+        0,
+        180
+      ],
+      "former_to_earlier_wire_gap_mm": 1.6231056256176606,
+      "minimum_clearance_mm": {
+        "earlier_wire_to_moving_arc": 3.272001872658765,
+        "earlier_wire_to_tail": 0.5000000000000007,
+        "fixed_wire_to_pusher": 0.21585198061603306,
+        "other_wire_to_clamp": 2.3499999999999996,
+        "tail_to_incoming_away_from_join": 1.0000000000000004,
+        "pusher_to_clamp": 7.518998304358185
+      },
+      "takeup_deg": 11.968745554685597,
+      "last_sampled_safe_compensation_deg": 1.75,
+      "first_collision_compensation_deg": 1.8,
+      "notes": "0.25 degree ideal inextensible wire steps; pusher vs current bent wire is intentional contact; no material simulation"
+    },
+    {
+      "stage": "C",
+      "samples": 721,
+      "angle_range_deg": [
+        0,
+        180
+      ],
+      "former_to_earlier_wire_gap_mm": 0.7552608109701797,
+      "minimum_clearance_mm": {
+        "earlier_wire_to_moving_arc": 4.073735281453221,
+        "earlier_wire_to_tail": 1.0000000000000009,
+        "fixed_wire_to_pusher": 0.260530911091462,
+        "other_wire_to_clamp": 0.34999999999999964,
+        "tail_to_incoming_away_from_join": 1.0000000000000004,
+        "pusher_to_clamp": 7.499518621024951
+      },
+      "takeup_deg": 10.844062563696822,
+      "last_sampled_safe_compensation_deg": 3.2,
+      "first_collision_compensation_deg": 3.25,
+      "notes": "0.25 degree ideal inextensible wire steps; pusher vs current bent wire is intentional contact; no material simulation"
+    }
+  ],
+  "mesh_count": 11,
+  "status": "PASS for stated ideal geometry and mesh checks only"
+}

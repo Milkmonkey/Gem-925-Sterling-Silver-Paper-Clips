@@ -1,0 +1,568 @@
+{
+  "run_utc": "2026-10-22T14:39:43.874265+00:00",
+  "parameters_sha256": "0c938557979a7ce4555808cdf110fe1ff542c8bb60897128c5d664cf31fc6fbe",
+  "geometry": {
+    "outside_mm": [
+      8.0,
+      29.0
+    ],
+    "theoretical_centerline_length_mm": 92.3473430653209,
+    "sampled_length_mm": 92.34703404046327,
+    "mass_g": 0.7514049324911005,
+    "segments_mm": [
+      12.0,
+      5.497787143782138,
+      16.0,
+      7.853981633974483,
+      22.0,
+      10.995574287564276,
+      18.0
+    ],
+    "material_marks_from_trimmed_start_mm": [
+      0.0,
+      12.0,
+      17.497787143782137,
+      33.49778714378213,
+      41.35176877775662,
+      63.35176877775662,
+      74.3473430653209,
+      92.3473430653209
+    ],
+    "nonadjacent_gaps": [
+      {
+        "pair": [
+          0,
+          2
+        ],
+        "surface_gap_mm": 2.5
+      },
+      {
+        "pair": [
+          0,
+          3
+        ],
+        "surface_gap_mm": 3.272001872658765
+      },
+      {
+        "pair": [
+          0,
+          4
+        ],
+        "surface_gap_mm": 0.5
+      },
+      {
+        "pair": [
+          0,
+          5
+        ],
+        "surface_gap_mm": 5.18465843842649
+      },
+      {
+        "pair": [
+          0,
+          6
+        ],
+        "surface_gap_mm": 4.5
+      },
+      {
+        "pair": [
+          1,
+          3
+        ],
+        "surface_gap_mm": 15.0
+      },
+      {
+        "pair": [
+          1,
+          4
+        ],
+        "surface_gap_mm": 0.5
+      },
+      {
+        "pair": [
+          1,
+          5
+        ],
+        "surface_gap_mm": 4.073735281453221
+      },
+      {
+        "pair": [
+          1,
+          6
+        ],
+        "surface_gap_mm": 1.0
+      },
+      {
+        "pair": [
+          2,
+          4
+        ],
+        "surface_gap_mm": 4.0
+      },
+      {
+        "pair": [
+          2,
+          5
+        ],
+        "surface_gap_mm": 5.324555320336759
+      },
+      {
+        "pair": [
+          2,
+          6
+        ],
+        "surface_gap_mm": 1.0
+      },
+      {
+        "pair": [
+          3,
+          5
+        ],
+        "surface_gap_mm": 21.0
+      },
+      {
+        "pair": [
+          3,
+          6
+        ],
+        "surface_gap_mm": 3.4721359549995796
+      },
+      {
+        "pair": [
+          4,
+          6
+        ],
+        "surface_gap_mm": 6.0
+      }
+    ],
+    "simple_continuous": true
+  },
+  "meshes": {
+    "stl/additional_parts.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 7,
+      "triangles": 20214,
+      "volume_mm3": 4452.998097767429,
+      "bounds_mm": [
+        [
+          2.0,
+          2.0,
+          0.0
+        ],
+        [
+          65.15,
+          52.0,
+          10.0
+        ]
+      ],
+      "sha256": "65b0259ecefbfd1be35b08ef5e8bf3d637979deaf17915c09c364af4a8b62a4c"
+    },
+    "stl/base.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "triangles": 25744,
+      "volume_mm3": 69529.24998090457,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          95.0,
+          75.0,
+          10.0
+        ]
+      ],
+      "sha256": "cfdaf2e02bf7c390c4fe1d1bafb6911acb26a2eeafee05f1936dfb834df87add"
+    },
+    "stl/bending_lever.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "triangles": 15944,
+      "volume_mm3": 14150.391315076131,
+      "bounds_mm": [
+        [
+          -8.0,
+          -8.0,
+          0.0
+        ],
+        [
+          111.0,
+          8.0,
+          8.0
+        ]
+      ],
+      "sha256": "95920a064a21b761637a64a4d0828d2e0a75cd9353dc844c4678d830ff938135"
+    },
+    "stl/clamp_A.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "triangles": 1178,
+      "volume_mm3": 298.3938255143793,
+      "bounds_mm": [
+        [
+          -4.0,
+          -4.0,
+          0.0
+        ],
+        [
+          12.9,
+          4.0,
+          5.0
+        ]
+      ],
+      "sha256": "a67aa711d7a5d8b19027ecd0d5d7c7468355c9ea0cfa51b67dbd9ea92511d3fe"
+    },
+    "stl/clamp_B.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "triangles": 1790,
+      "volume_mm3": 282.9564410974927,
+      "bounds_mm": [
+        [
+          -4.0,
+          -4.0,
+          0.0
+        ],
+        [
+          12.15,
+          4.0,
+          5.0
+        ]
+      ],
+      "sha256": "3f18b33192256eb23b508aeb5ce13e12472f529cfd3159293550cdf8aa3a9506"
+    },
+    "stl/clamp_C.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "triangles": 1866,
+      "volume_mm3": 262.53940899443563,
+      "bounds_mm": [
+        [
+          -4.0,
+          -4.0,
+          0.0
+        ],
+        [
+          11.15,
+          4.0,
+          5.0
+        ]
+      ],
+      "sha256": "f192ba443a446168f159abfd99bc8bf4bd51a66660476bb00f080345a7e36002"
+    },
+    "stl/liner_A.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "triangles": 1304,
+      "volume_mm3": 570.4166564898491,
+      "bounds_mm": [
+        [
+          -6.0,
+          -6.0,
+          0.0
+        ],
+        [
+          6.0,
+          6.0,
+          10.0
+        ]
+      ],
+      "sha256": "cfffcc0480cb0dcbb518fb632991c3c029b2dedb7cebe7860a3a6761244de2f5"
+    },
+    "stl/liner_B.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "triangles": 1916,
+      "volume_mm3": 489.11332634029867,
+      "bounds_mm": [
+        [
+          -6.0,
+          -6.0,
+          0.0
+        ],
+        [
+          6.0,
+          6.0,
+          10.0
+        ]
+      ],
+      "sha256": "edd3f5410ff62ab6fe5073b94d29702d40a67127ef3b3d0bf405127df4df2aa3"
+    },
+    "stl/liner_C.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "triangles": 1992,
+      "volume_mm3": 325.94844171942316,
+      "bounds_mm": [
+        [
+          -6.0,
+          -6.0,
+          0.0
+        ],
+        [
+          6.0,
+          6.0,
+          10.0
+        ]
+      ],
+      "sha256": "23f3419856bb05ae0117a5d0645af23a3353bf14899aef8b8c45af094a09c067"
+    },
+    "stl/tolerance_coupon.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "triangles": 10168,
+      "volume_mm3": 2223.6328675285395,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          56.0,
+          14.0,
+          3.0
+        ]
+      ],
+      "sha256": "7d9f686d11f7bbb18e101d8a386208e4a5afd95f0250d97819155943ebee0453"
+    },
+    "reference/gem_clip_reference.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "triangles": 76468,
+      "volume_mm3": 72.50527706301918,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0005930106854066253,
+          9.883511665975675e-05
+        ],
+        [
+          8.0,
+          28.999208450317383,
+          0.9999011754989624
+        ]
+      ],
+      "sha256": "5059d0b1d143a77fa077159e6a8f239324e71e2f6ea997128c28baace0c36fc3"
+    }
+  },
+  "exported_hole_sections": {
+    "base_z5": [
+      {
+        "center_mm": [
+          31.0,
+          41.0
+        ],
+        "diameter_xy_mm": [
+          8.200000000000003,
+          8.200000000000003
+        ]
+      },
+      {
+        "center_mm": [
+          17.0,
+          31.0
+        ],
+        "diameter_xy_mm": [
+          4.5,
+          4.5
+        ]
+      }
+    ],
+    "lever_z2": [
+      {
+        "center_mm": [
+          0.0,
+          0.0
+        ],
+        "diameter_xy_mm": [
+          2.7,
+          2.7
+        ]
+      },
+      {
+        "center_mm": [
+          22.0,
+          0.0
+        ],
+        "diameter_xy_mm": [
+          4.200000000000003,
+          4.2
+        ]
+      },
+      {
+        "center_mm": [
+          44.0,
+          0.0
+        ],
+        "diameter_xy_mm": [
+          6.200000000000003,
+          6.2
+        ]
+      },
+      {
+        "center_mm": [
+          3.85,
+          0.0
+        ],
+        "diameter_xy_mm": [
+          3.12,
+          3.12
+        ]
+      },
+      {
+        "center_mm": [
+          26.6,
+          0.0
+        ],
+        "diameter_xy_mm": [
+          3.120000000000001,
+          3.12
+        ]
+      },
+      {
+        "center_mm": [
+          49.599999999999994,
+          0.0
+        ],
+        "diameter_xy_mm": [
+          3.1199999999999974,
+          3.12
+        ]
+      }
+    ],
+    "liner_A": [
+      {
+        "center_mm": [
+          0.0,
+          0.0
+        ],
+        "diameter_xy_mm": [
+          2.7,
+          2.7
+        ]
+      }
+    ],
+    "liner_B": [
+      {
+        "center_mm": [
+          0.0,
+          0.0
+        ],
+        "diameter_xy_mm": [
+          4.2,
+          4.2
+        ]
+      }
+    ],
+    "liner_C": [
+      {
+        "center_mm": [
+          0.0,
+          0.0
+        ],
+        "diameter_xy_mm": [
+          6.2,
+          6.2
+        ]
+      }
+    ]
+  },
+  "motion": [
+    {
+      "stage": "A",
+      "samples": 721,
+      "angle_range_deg": [
+        0,
+        180
+      ],
+      "former_to_earlier_wire_gap_mm": null,
+      "minimum_clearance_mm": {
+        "earlier_wire_to_moving_arc": null,
+        "earlier_wire_to_tail": null,
+        "fixed_wire_to_pusher": 0.18174242292714293,
+        "other_wire_to_clamp": 2.3500000000000005,
+        "tail_to_incoming_away_from_join": 1.0,
+        "pusher_to_clamp": 7.509297964661915
+      },
+      "takeup_deg": 13.08735266455403,
+      "last_sampled_safe_compensation_deg": 11.8,
+      "first_collision_compensation_deg": 11.850000000000001,
+      "notes": "0.25 degree ideal inextensible wire steps; pusher vs current bent wire is intentional contact; no material simulation"
+    },
+    {
+      "stage": "B",
+      "samples": 721,
+      "angle_range_deg": [
+        0,
+        180
+      ],
+      "former_to_earlier_wire_gap_mm": 1.6231056256176606,
+      "minimum_clearance_mm": {
+        "earlier_wire_to_moving_arc": 3.272001872658765,
+        "earlier_wire_to_tail": 0.5000000000000007,
+        "fixed_wire_to_pusher": 0.21585198061603306,
+        "other_wire_to_clamp": 2.3499999999999996,
+        "tail_to_incoming_away_from_join": 1.0000000000000004,
+        "pusher_to_clamp": 7.518998304358185
+      },
+      "takeup_deg": 11.968745554685597,
+      "last_sampled_safe_compensation_deg": 1.75,
+      "first_collision_compensation_deg": 1.8,
+      "notes": "0.25 degree ideal inextensible wire steps; pusher vs current bent wire is intentional contact; no material simulation"
+    },
+    {
+      "stage": "C",
+      "samples": 721,
+      "angle_range_deg": [
+        0,
+        180
+      ],
+      "former_to_earlier_wire_gap_mm": 0.7552608109701797,
+      "minimum_clearance_mm": {
+        "earlier_wire_to_moving_arc": 4.073735281453221,
+        "earlier_wire_to_tail": 1.0000000000000009,
+        "fixed_wire_to_pusher": 0.260530911091462,
+        "other_wire_to_clamp": 0.34999999999999964,
+        "tail_to_incoming_away_from_join": 1.0000000000000004,
+        "pusher_to_clamp": 7.499518621024951
+      },
+      "takeup_deg": 10.844062563696822,
+      "last_sampled_safe_compensation_deg": 3.2,
+      "first_collision_compensation_deg": 3.25,
+      "notes": "0.25 degree ideal inextensible wire steps; pusher vs current bent wire is intentional contact; no material simulation"
+    }
+  ],
+  "height_stack_mm": {
+    "wire_top_above_base": 1.0,
+    "collar_bottom_above_base": 1.5,
+    "lever_bottom_above_base": 9.5,
+    "clamp_top_above_base": 5,
+    "pusher_tip_above_base": 0.15,
+    "mandrel_length": 40,
+    "lever_top_above_table": 27.5
+  },
+  "not_verified": [
+    "silver ductility/cracking",
+    "springback",
+    "paper retention",
+    "plastic strength/creep under real load",
+    "printer dimensional accuracy",
+    "friction/slip",
+    "continuous analytic collision proof between sampled states",
+    "real material neutral-axis shift"
+  ]
+}

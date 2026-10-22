@@ -1,0 +1,23 @@
+// Generated from parameters.json by build.py. Edit the JSON, then rebuild.
+clip_length = 29.0;
+clip_width = 8.0;
+wire_diameter = 1.0;
+bend_radius_A = 1.75;
+bend_radius_B = 2.5;
+bend_radius_C = 3.5;
+inner_gap = 0.5;
+inner_arc_y = 19.0;
+free_end_y = 7.0;
+springback_compensation = 0.0;
+pin_clearance = 0.2;
+pusher_diameter = 3.0;
+pusher_clearance = 0.1;
+base_width = 95.0;
+base_depth = 75.0;
+base_thickness = 10.0;
+axis_x = 31.0;
+axis_y = 41.0;
+collar_height = 8.0;
+collar_bottom_clearance = 1.5;
+collar_max_diameter = 14.0;
+lever_thickness = 8.0;

@@ -1,0 +1,76 @@
+{
+  "v01_meshes": {
+    "silver_clip_base_v01.stl": {
+      "watertight": true,
+      "bounds_mm": [
+        [
+          -21.0,
+          -40.0,
+          0.0
+        ],
+        [
+          21.0,
+          40.0,
+          8.0
+        ]
+      ],
+      "extents_mm": [
+        42.0,
+        80.0,
+        8.0
+      ],
+      "bodies": 1
+    },
+    "silver_clip_lever_v01.stl": {
+      "watertight": true,
+      "bounds_mm": [
+        [
+          -30.5,
+          -7.5,
+          0.0
+        ],
+        [
+          34.5,
+          7.5,
+          9.0
+        ]
+      ],
+      "extents_mm": [
+        65.0,
+        15.0,
+        9.0
+      ],
+      "bodies": 1
+    }
+  },
+  "rejected_order_CBA": [
+    {
+      "stage": "C",
+      "first_collision_angle_deg": null,
+      "min_tail_surface_gap_mm": null,
+      "note": "Independent static earlier segments; later stages assume preceding ideal bends could be completed."
+    },
+    {
+      "stage": "B",
+      "first_collision_angle_deg": 146.25,
+      "min_tail_surface_gap_mm": -1.0,
+      "note": "Independent static earlier segments; later stages assume preceding ideal bends could be completed."
+    },
+    {
+      "stage": "A",
+      "first_collision_angle_deg": 0.0,
+      "min_tail_surface_gap_mm": -1.0,
+      "note": "Independent static earlier segments; later stages assume preceding ideal bends could be completed."
+    }
+  ],
+  "preliminary_load_estimates": {
+    "assumed_pusher_force_N": 40.0,
+    "assumed_upper_pivot_reaction_N": 40.0,
+    "upper_bearing_height_above_base_mm": 13.5,
+    "A_pin_cantilever_stress_MPa": 352.0252693283778,
+    "A_pin_elastic_deflection_mm_assuming_steel_E_200GPa": 0.08554214044679581,
+    "nominal_minimum_lever_web_mm": 0.94,
+    "nominal_web_average_shear_MPa": 5.319148936170213,
+    "meaning": "Order-of-magnitude assumptions, NOT FEA, material certification, or approved working load. Force 40 N is not a measured silver requirement."
+  }
+}

@@ -1,0 +1,802 @@
+US636272A - Machine for making wire paper-clips. 
+      - Google Patents
+#gb { top: 15px; left: auto; right: 0; width: auto; min-width: 135px !important; }   
+      body { transition: none; }
+window.version = 'patent-search.search_20260819_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': window.version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "ae,ag,al,am,ao,ap,ar,at,au,aw,az,ba,bb,bd,be,bf,bg,bh,bj,bn,bo,br,bw,bx,by,bz,ca,cf,cg,ch,ci,cl,cm,cn,co,cr,cs,cu,cy,cz,dd,de,dj,dk,dm,do,dz,ea,ec,ee,eg,em,ep,es,fi,fr,ga,gb,gc,gd,ge,gh,gm,gn,gq,gr,gt,gw,hk,hn,hr,hu,ib,id,ie,il,in,ir,is,it,jo,jp,ke,kg,kh,km,kn,kp,kr,kw,kz,la,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mg,mk,ml,mn,mo,mr,mt,mw,mx,my,mz,na,ne,ng,ni,nl,no,nz,oa,om,pa,pe,pg,ph,pl,pt,py,qa,ro,rs,ru,rw,sa,sc,sd,se,sg,si,sk,sl,sm,sn,st,su,sv,sy,sz,td,tg,th,tj,tm,tn,tr,tt,tw,tz,ua,ug,us,uy,uz,vc,ve,vn,wo,yu,za,zm,zw";
+      
+      
+      window.experiments.keywordWizard = true;
+      
+      
+      
+      window.experiments.definitions = true;
+      window.experiments.plogs = true;
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+US636272A - Machine for making wire paper-clips. 
+      - Google Patents
+Machine for making wire paper-clips.
+Download PDF
+Info
+Publication number
+US636272A
+US636272A
+US71471299A
+US1899714712A
+US636272A
+US 636272 A
+US636272 A
+US 636272A
+US 71471299 A
+US71471299 A
+US 71471299A
+US 1899714712 A
+US1899714712 A
+US 1899714712A
+US 636272 A
+US636272 A
+US 636272A
+Authority
+US
+United States
+Prior art keywords
+wire
+winder
+former
+bending
+clip
+Prior art date
+1899-04-27
+Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+Expired - Lifetime
+Application number
+US71471299A
+Inventor
+William D Middlebrook
+Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+Cushman & Denison
+Original Assignee
+Cushman & Denison
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+1899-04-27
+Filing date
+1899-04-27
+Publication date
+1899-11-07
+1899-04-27
+Application filed by Cushman & Denison
+filed
+Critical
+Cushman & Denison
+1899-04-27
+Priority to US71471299A
+priority
+Critical
+patent/US636272A/en
+1899-11-07
+Application granted
+granted
+Critical
+1899-11-07
+Publication of US636272A
+publication
+Critical
+patent/US636272A/en
+1916-11-07
+Anticipated expiration
+legal-status
+Critical
+Status
+Expired - Lifetime
+legal-status
+Critical
+Current
+Links
+USPTO
+USPTO PatentCenter
+USPTO Assignment
+Espacenet
+Global Dossier
+Discuss
+238000005452
+bending
+Methods
+0.000
+description
+35
+230000007246
+mechanism
+Effects
+0.000
+description
+26
+230000000694
+effects
+Effects
+0.000
+description
+3
+238000003462
+Bender reaction
+Methods
+0.000
+description
+2
+230000015572
+biosynthetic process
+Effects
+0.000
+description
+2
+238000010276
+construction
+Methods
+0.000
+description
+2
+238000004804
+winding
+Methods
+0.000
+description
+2
+241001669696
+Butis
+Species
+0.000
+description
+1
+208000014413
+Maternally-inherited diabetes and deafness
+Diseases
+0.000
+description
+1
+229910000831
+Steel
+Inorganic materials
+0.000
+description
+1
+230000000994
+depressogenic effect
+Effects
+0.000
+description
+1
+210000003746
+feather
+Anatomy
+0.000
+description
+1
+239000010985
+leather
+Substances
+0.000
+description
+1
+238000004519
+manufacturing process
+Methods
+0.000
+description
+1
+239000000463
+material
+Substances
+0.000
+description
+1
+229920000136
+polysorbate
+Polymers
+0.000
+description
+1
+239000011435
+rock
+Substances
+0.000
+description
+1
+239000010959
+steel
+Substances
+0.000
+description
+1
+238000005406
+washing
+Methods
+0.000
+description
+1
+Images
+Classifications
+B
+—
+PERFORMING OPERATIONS; TRANSPORTING
+B21
+—
+MECHANICAL METAL-WORKING WITHOUT ESSENTIALLY REMOVING MATERIAL; PUNCHING METAL
+B21F
+—
+WORKING OR PROCESSING OF METAL WIRE
+B21F45/00
+—
+Wire-working in the manufacture of other particular articles
+B21F45/16
+—
+Wire-working in the manufacture of other particular articles of devices for fastening or securing purposes
+B21F45/22
+—
+Wire-working in the manufacture of other particular articles of devices for fastening or securing purposes of paper fasteners or clips
+Y
+—
+GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS
+Y10
+—
+TECHNICAL SUBJECTS COVERED BY FORMER USPC
+Y10T
+—
+TECHNICAL SUBJECTS COVERED BY FORMER US CLASSIFICATION
+Y10T29/00
+—
+Metal working
+Y10T29/26
+—
+Paper-fastener making
+Definitions
+the invention
+comprises certain improved organizations of apparatus for automatically manufacturing wire clips for binding or securing papers in lieu of pins and of the general shape and character illustrated in Fig. 8 of the accompanying drawings.
+Figure 1
+is a plan View; Fig. 2, a vertical section therethrough on the line 22; Fig. 3, a section on the line 3 3 of Fig. 1; Fig. 4, a section on the line 4 4 of Fig. 1; Figs. 5, 6, 7, and 8, detail views of the winders or benders and of a clip at different stages of the operation; Fig. 9, a partial detail sectional View on the line 9 9 of Fig. 1. Y
+the wire X
+is fed in the direction of the arrow from any suitable straightener (not shown) located at the right of the bed-plate 10. It passes from a feeding apparatus through a cut-01f barrel 11.
+the main shaft 12
+equipped with driving-pulleys 13 13 and various cams, hereinafter referred to, for operating parts of the mechanism.
+the feeding mechanism
+may consist of a way or track 17, secured on the bed-plate and upon which a slide 18 is mounted. As indicated in Fig. 1 and shown in detail in Fig. 3, this slide has about midway of its length a vertical hollow boss 19, the opening therein extending through the slide, where it is enlarged, as indicated.
+a spiral spring
+may be interposed between the enlarged end of the bolt and the washer.
+the slide
+While therefore capable of endwise movement on its track, has frictional contact therewith, which may be adjusted by means of the bolt 20.
+a secondary slide 22, Figs. 1 and 3,
+is
+the secondary slide
+has a rack engaged by a segmental rack 24:, carried by a short vertical shaft 25, having thereon a pinion 26, operated by a sliding rack 27, which derives motion, as clearly illustrated, from the grooved camwheel 28 on the main shaft 12.
+the wire
+passes through grippingjaws 29 on the main slide 18, one of which jaws is movable and is controlled by a pivoted dog 30, mounted on the main slide, and the outer end of which lies in a recess or notch in the secondary slide 22. In the position shown in the drawings the wire X is being fed to the left.
+the winders A and B and the former O
+are mounted in a block Y on the bed-plate, their arrangement and construction being as follows: They stand in a line parallel with the feed of the wire, the winder A being next to the cut-0K barrel.
+the top of the block
+is provided with a steel face-plate D, above which is arranged the corresponding plate F, there being a small horizontal space between them in which the bending of the wire occurs.
+the winder A
+consists of a cylindrical portion having its bearing in the block.
+This cylindrical portion
+is flush with the plate D, and from it rises a central pin at, having a bearing in an aperture in the upper plate F and a winding or bending projection a of the same height as the space between the two plates and located at one side of the cylindrical body of the winder and having a convex curved face on the side next the pin a.
+a gear-wheel a
+is appliedto the shaft or cylindrical portion of the winder by a groove or feather connection which permits of the winder being lowered or raised.
+the winder B
+is similarly constructed, with the bending or winding projection 1) corresponding with the one a.
+the central pin 17, however,
+is mounted in a boss in the top plate F, so as to be capable of vertical movement, and has its lower end seated in a central aperture in the cylindrical part or shaft of the winder.
+This winder
+is also provided with a gear-wheel b connected with it by a groove-and-feather connection, such as to permit of the winder being lowered and raised.
+the former O
+is similarly mounted in the block Y, so as to be capable of being lowered and raised, butis merely provided with a central pin 0, one side of which is grooved or cut away, as shown in' Fig. 5, and which has a bearing in an aperture in the upper plate F.
+the former C
+is formed at its lower end with an annular groove 0, in which lies the end 0, Figs.
+the two projections a and b from the arm G
+are in the same horizontal plane,and the upper walls of the annular grooves a and b coincide or are in the same horizontal plane. Consequently when the arm or lever G is in its normal raised position the two winders A B are held in their normal elevated position, as shown in Fig. 2. WVhen, however, the arm G is moved downward, the first effect is to draw down the winder A until the end of its pin a is flush with or below the face of the plate D. A subsequent further downward movement of the lever G will similarly draw down the winder B until the end of the projection b thereon is flush with or below the face of the plate D.
+an adjustable screwbolt or projection 47
+which stands opposite the end of the headed pin 48, sliding in a recess in a boss 42 on the block Y, with its inner end working in the space between the two plates D F opposite the pin 1) of the winder B and normally retracted by its coiled spring 49. WVhile the parts are in the position shown in Fig. 7, a small swell or lump on the side of the cam 50 throws the outer end of the jaw 45 slightly to the right.
+the pin 1) of winder B
+is withdrawn upwardly by a lever 52, pivoted on the side of the block Y and operated by its cam 53 on the shaft 16.
+the projection or bolt 47 thereon
+strikes against the end of the rod 48 and forces it inwardly until it pinches the wire between its end and the winder B, thus giving a permanent set to that side of the bend of the wire around the pin..
+the slide 47
+isnow advanced by its cam 54, and the jaws 46, passing on each side of the former C, bend the wire into form shown in Fig. 8, the end of the clamping-rod 36 still pinching the wire firmly against the former.
+the arm 0, engaging the annular groove in the lower end of the former C
+is thrown downwardly by the actuation of the rock-shaft O by the cam 56 on the shaft 16.
+the slide 58
+may be actuated at the proper time by a pivoted arm 60, deriving its motion from a cam projection 61 on the same cam-wheel 56 I that operates the rock-shaft O Suitable springs are applied to the various parts of the machine to control their proper operation. These are shown in the drawings; but since their behavior is obvious they have not been specifically referred to.
+the combination of the winderA having the central pin a and projection a, the winder B having a central pin b and projection b, the former 0,
+means for pinching the wire against the former C during the bending of the clip, mechanism for partially rotating the winder A to form the initial bend in the clip and then withdrawing it, mechanism for then partially rotating the projection b of the winder B to form the second bend in the clip and then withdrawing it and the pin b, and means for then completing the bending of the clip about the former.
+a wire-bending machine
+for making a clip of the character herein described, the combination of mechanism for feeding agiven length of wire, means for severing it, means forholding the straight severed length of wire in position, mechanism for bending one end of the wire to bring the bent-over portion parallel with its length, mechanism for again bending the wire at or about midway of its length to again bring the bent-over portions parallel with its length, and mechanism for again bending the wire at a point intermediate its remaining end and the first bend formed therein, to bring all straight portions of the wire parallel with each other and thereby complete the bending of the clip.
+a wire-bending machine
+for making a clip of the character herein described, the combination of mechanism for feeding a given length of wire, means for severing it, means for holding the straight severed length of wire in position, mechanism for bending one end of the Wire to bring the bent-over portion parallel with its length, mechanism for again bending the Wire at or about midway of its length to again bring the bent-over portions parallel with its length, mechanism for again bending the wire at a point intermediate its remaining end and the first bend formed therein, to bring all straight portions of the wire parallel with each other and thereby complete the bending of the-clip, means for imparting a set to the second bend of the wire and means for imparting a set to both sides of the final bend in the wire.
+Landscapes
+Engineering & Computer Science
+(
+AREA
+)
+Mechanical Engineering
+(
+AREA
+)
+Wire Processing
+(
+AREA
+)
+Description
+Patented Nov. 7, I899.
+W. D. MIDDLEBRUOK.
+MACHINE FOR MAKING WIRE PAPER CLIPS.
+(Application filed Api. 27, 1899.) (No Model.) 2 Sheets$heet p aza/ 44- ATTORNEYS.
+THE Ncwms PETER cn., Pnm'mu nou WASHING'TON, o. c
+No. 636,272. I Pat ented Nov. 7, I899.
+w. n. MIDD'LEBROUK.
+MACHINE FOR MAKING wmz PAPER cuPs.
+(Application filed Apr. 27, 1899.) (No- Model.) 2
+Sheets8heet
+2,
+'INVENTOR I ATTOR N EY8 UNITED STATES PATENT OFFICE.
+WILLIAM D. MIDDLEBROOK, OF WATERBURY, CONNECTICUT, ASSIGNOR TO CUSHMAN & DENISON, OF NEW YORK, N. Y.
+MACHINE FOR MAKING WIRE PAPER-CLIPS,
+SPECIFICATION forming part of Letters Patent No. 636,272, dated November 7, 1899.
+Application filed April 27, 1899. Serial No. 714,712. (No model.)
+To all whom it may concern:
+Be it known that 1, WILLIAM D. MIDDLE- BROOK, a citizen of the United States, residing at Waterbury, in the county of New Haven and State of Connecticut, have invented certain new and useful Improvements in Machines for Making Wire Paper-Clips, of which the following is a specification.
+The invention comprises certain improved organizations of apparatus for automatically manufacturing wire clips for binding or securing papers in lieu of pins and of the general shape and character illustrated in Fig. 8 of the accompanying drawings.
+The details of construction are fully illustrated and hereinafter set forth in detail.
+In the accompanying drawings, Figure 1 is a plan View; Fig. 2, a vertical section therethrough on the line 22; Fig. 3, a section on the line 3 3 of Fig. 1; Fig. 4, a section on the line 4 4 of Fig. 1; Figs. 5, 6, 7, and 8, detail views of the winders or benders and of a clip at different stages of the operation; Fig. 9, a partial detail sectional View on the line 9 9 of Fig. 1. Y
+The wire X is fed in the direction of the arrow from any suitable straightener (not shown) located at the right of the bed-
+plate
+10. It passes from a feeding apparatus through a cut-01f barrel 11. Along one side or edge of the bed-plate is arranged the
+main shaft
+12, equipped with driving-
+pulleys
+13 13 and various cams, hereinafter referred to, for operating parts of the mechanism. A beveledv gear 14 on one end thereof engages a corresponding gear 15 on the end of the
+shaft
+16, mounted in bearings at one side of the bedplate, and also having cams, hereinafter referred to, for operating parts of themechanism.
+The feeding mechanism may consist of a way or
+track
+17, secured on the bed-plate and upon which a
+slide
+18 is mounted. As indicated in Fig. 1 and shown in detail in Fig. 3, this slide has about midway of its length a vertical
+hollow boss
+19, the opening therein extending through the slide, where it is enlarged, as indicated. A screw-bolt 20, having an enlarged or disk head located in the enlarged opening in the slide, works in the threaded bore of the boss and acts upon a
+washer
+21, of
+leather or other suitable material, bearing upon the way or
+track
+17. A spiral spring may be interposed between the enlarged end of the bolt and the washer. The slide, While therefore capable of endwise movement on its track, has frictional contact therewith, which may be adjusted by means of the bolt 20. A secondary slide 22, Figs. 1 and 3, is
+mounted to move endwise in guides or
+ways
+23,.forming parts of the
+main slide
+18, or attached thereto by bolts, as shown. The secondary slide has a rack engaged by a segmental rack 24:, carried by a short
+vertical shaft
+25, having thereon a
+pinion
+26, operated by a sliding rack 27, which derives motion, as clearly illustrated, from the grooved camwheel 28 on the
+main shaft
+12. The wire passes through
+grippingjaws
+29 on the
+main slide
+18, one of which jaws is movable and is controlled by a pivoted dog 30, mounted on the main slide, and the outer end of which lies in a recess or notch in the secondary slide 22. In the position shown in the drawings the wire X is being fed to the left.
+The operation of the feed devices is as follows: When the
+segmental rack
+24 rocks in the direction of the arrow, the secondary slide 22 is carried to the left, thus acting upon the dog 30 and causing the gripping-
+jaws
+29 to clamp the Wire. During this movement of the secondary slide the
+main slide
+18 remains stationary and the frictional connection be tween it and the track upon which it runs is to insure its remaining stationary. The continued stress upon the secondary slide tending to carry it to the left now, however, causes the main slide to accompany it and the jaws carry the wire forward a definite distance int-o the cut-off barrel 11. As the camwheel 28 causes the retrograde movement of the parts the effect is to move the secondary slide to the right, thus opening the
+grippingjaws
+29, and when the end of the slide abuts against the adjustable screw-
+stop
+18 on the main slide the two move together to the right to such distance as has been determined to feed the proper length of wire to the machine. After a proper length of the Wire has in this manner been passed through the cut-off barrel it lies in proper relation to the Winder A, winder B, and former C, as plainly indicated IOO in the detail view Fig. 5. At this time the
+lever
+31 is actuated by its cam on the main shaft to pinch or bind the wire at 32 in the cut-off barrel. At the same time the end wisemovable bar 33, Figs. 1 and 4, is advanced by its
+cam
+34, so that its
+end
+36 pinches the wire against the side of the former C. The wire is thus held in proper relation and contact with the bending devices. At this time the cut-off bar 37 is moved endwise by its
+cam
+38 and the cutter 39 severs the wire at the lefthand end of the cut-off barrel and the feeding devices have returned to their initial position ready to feed the next length of wire.
+The winders A and B and the former O are mounted in a block Y on the bed-plate, their arrangement and construction being as follows: They stand in a line parallel with the feed of the wire, the winder A being next to the cut-0K barrel. The top of the block is provided with a steel face-plate D, above which is arranged the corresponding plate F, there being a small horizontal space between them in which the bending of the wire occurs. The winder A consists of a cylindrical portion having its bearing in the block. The upper face of this cylindrical portion is flush with the plate D, and from it rises a central pin at, having a bearing in an aperture in the upper plate F and a winding or bending projection a of the same height as the space between the two plates and located at one side of the cylindrical body of the winder and having a convex curved face on the side next the pin a. A gear-wheel a is appliedto the shaft or cylindrical portion of the winder by a groove or feather connection which permits of the winder being lowered or raised. The winder B is similarly constructed, with the bending or winding projection 1) corresponding with the one a. The
+central pin
+17, however, is mounted in a boss in the top plate F, so as to be capable of vertical movement, and has its lower end seated in a central aperture in the cylindrical part or shaft of the winder. This winder is also provided with a gear-wheel b connected with it by a groove-and-feather connection, such as to permit of the winder being lowered and raised. The former O is similarly mounted in the block Y, so as to be capable of being lowered and raised, butis merely provided with a
+central pin
+0, one side of which is grooved or cut away, as shown in' Fig. 5, and which has a bearing in an aperture in the upper plate F. The former C is formed at its lower end with an
+annular groove
+0, in which lies the
+end
+0, Figs. 1 and 4, of an arm projecting from a rock-
+shaft
+0*. When the arm C is in the normal elevated position,it holds the former up in its normal elevated position; but when the arm 0' is depressed it carries the former down until the end or face of the pin cis flush with or below the upper face of the plate D. The lower end of the cylindrical part of the winder A is formed with an annular groove a in which lies one end a of a projection extending from an arm G. The lower end of the cylindrical part of the winder B is similarly formed with an annular groove b ,which, however,is of considerably greater width than the corresponding annular groove of the winder A. A
+second projection
+19 from the arm or lever G extends into the groove b. The two projections a and b from the arm G are in the same horizontal plane,and the upper walls of the annular grooves a and b coincide or are in the same horizontal plane. Consequently when the arm or lever G is in its normal raised position the two winders A B are held in their normal elevated position, as shown in Fig. 2. WVhen, however, the arm G is moved downward, the first effect is to draw down the winder A until the end of its pin a is flush with or below the face of the plate D. A subsequent further downward movement of the lever G will similarly draw down the winder B until the end of the projection b thereon is flush with or below the face of the plate D. The operation having reached the stage already described and the length of wire which has been severed lying between the plates D F and in the relation to the winders and former shown in Fig. 5, the endwise-movable arm 40, formed with a rack on its end engaging the pinion a of the winder A, is advanced by its
+cam
+41 and the winder is rotated into the position shown in Fig. 6, forming or bending the wire, as also there shown. The arm G, which projects from the rock-shaft G,is now partially moved downward by the action of the cam 42, causing the movement of the rock-shaft, as plainly illustrated. The effect is to withdraw the winder A from operative position. Next the endwise-
+movable rod
+43, formed with a rack near its end, which engages the pinion b of the winder B, is moved forward by its
+cam
+44 on the
+shaft
+16, and the winder B is rotated into the position shown in Fig. 7, bending the wire into the shape there shown, after which a further downward movement of the arm G occurs andthe shaft of the winder B, with the projection b thereon, is drawn down, the pin 1), however, remaining in position. It is now desirable to impart at the point marked :1; in Fig. 7 a permanent set to the wire, and this may be accomplished in the following manner: Two bending and forming
+jaws
+45 46 are pivoted on a slide 47, so as to be capable of movement toward and from the former G. On the shoulder of the
+jaw
+45, adjacent to its pivot, is an adjustable screwbolt or projection 47, which stands opposite the end of the headed pin 48, sliding in a recess in a boss 42 on the block Y, with its inner end working in the space between the two plates D F opposite the pin 1) of the winder B and normally retracted by its coiled spring 49. WVhile the parts are in the position shown in Fig. 7, a small swell or lump on the side of the cam 50 throws the outer end of the
+jaw
+45 slightly to the right. The pin 1) of winder B is withdrawn upwardly by a lever 52, pivoted on the side of the block Y and operated by its
+cam
+53 on the
+shaft
+16. The projection or bolt 47 thereon strikes against the end of the rod 48 and forces it inwardly until it pinches the wire between its end and the winder B, thus giving a permanent set to that side of the bend of the wire around the pin.. The slide 47 isnow advanced by its
+cam
+54, and the jaws 46, passing on each side of the former C, bend the wire into form shown in Fig. 8, the end of the clamping-
+rod
+36 still pinching the wire firmly against the former. The formation of the clip having now been completed, the
+arm
+0, engaging the annular groove in the lower end of the former C, is thrown downwardly by the actuation of the rock-shaft O by the cam 56 on the
+shaft
+16. When the forward movement of the jaws is completed, their rear ends are thrown outwardly by their respective cams 50 and and a permanent set is given to the wire at the point marked 00 m, Fig. 8, and the completed clip may now be withdrawn from the machine, as follows: In the final formation of the clip its end 00* will be swung outwardly or to the' rear, as in Fig. 8, and will pass under the end of and engage with a hook 57 on a slide 58. When the former O is withdrawn,as described, the slide 58 is retracted, and the completed clip, being drawn from between the plates D F, will fall through the aperture 59 in the bed-plate into a suitable receptacle. The slide 58 may be actuated at the proper time by a pivoted arm 60, deriving its motion from a cam projection 61 on the same cam-wheel 56 I that operates the rock-shaft O Suitable springs are applied to the various parts of the machine to control their proper operation. These are shown in the drawings; but since their behavior is obvious they have not been specifically referred to.
+I claim as my invention l. The combination of the winder A having the central pin a and projection a, the winder B having a central pin 1) and projection'b, the former O, mechanism for partially rotating the winder A to form the initial bend in the clip and then withdrawing it, mechanism for then partially rotating the projection b of the winder B to form the second bend in the clip and then withdrawing it, and the pin b and means for then completing the bending of the clip about the former.
+2. The combination of the winderA having the central pin a and projection a, the winder B having a central pin b and projection b, the former 0, means for pinching the wire against the former C during the bending of the clip, mechanism for partially rotating the winder A to form the initial bend in the clip and then withdrawing it, mechanism for then partially rotating the projection b of the winder B to form the second bend in the clip and then withdrawing it and the pin b, and means for then completing the bending of the clip about the former.
+5. The combination of the parallel surfaces or plates in the space between which the wire is bent, an endwise-movable winder A having the centrally-projectingpin and wirebending projection normally extending across said space, mechanism for partially rotating the winder to form the initial bend of the clip and then withdrawing it, a second endwise-movable winder having a central pin and a wire-bending projection also normally extending across said space, mechanism for partially rotating the bending projection of the second winder to form the second bend in the clip and then withdrawing it, means for then imparting a set to this latter bend in the clip while the pin of the second winder is still in position, mechanism for then withdrawing said pin, mechanism for then completing the bending of the clip around the former, and means for then withdrawing the former to permit the ejection of the completed clip.
+4. The combination of the parallel surfaces or plates in the space between which the wire is bent, an endwise-movable winderA having the centrally-projecting pin and wire-bending projection normally extending across said space, mechanism for partially rotating the winder to form the initial bend of the clip and then withdrawing it, a second endwisemovable winder having a central pin and a wire-bending projection also normally extending across said space, mechanism for partially rotating the bending projection of the second winder to form the second bend in the clip and then withdrawing it, means for then imparting a set to this latter bend in the clip while the pin of the second winder isstill in position, mechanism for then with-,
+drawing said pin, mechanism for then completing the bending of the clip around the former, means for imparting a set to the bend of the wire around the former on each side, and means for then withdrawing the former to permit the ejection of the completed clip.
+5. The combination with the two winders for forming the initial and second bend of the clip and their operating mechanisms, of the former and the jaws or
+benders
+45, 46 having mechanism for advancing them to form the final bend of the clip and for causing their ends operating upon the wire to approach each other to impart a set to both sides-of the bend in the wire formed by them.
+6. The combination of the former C, a rod or bar for pinching a straight length of wire adjacent to one of its ends against the former, a winder adjacent to the opposite end of the wire for bending over that end of the wire parallel with its length, a second winder intermediate the first one and the former to again bend the wire to bring the portion bent thereby parallel with the remaining unbent portion of the wire, and mechanism for then bending the wire around the former to bring all of its straight portions parallel with each other.
+7. The combination of a winder for bending IIO one end of a straight length of wire to bring forming a second bend of the wire to bring the part bent over thereby also parallel with its length, a former, and means for holding or bending around the former the bent portion of the wire lying to one side thereof and the remaining straight or nnbent portion lying to the other side thereof 'to bring all straight portions of the wire parallel with each other.
+8. The combination of a winder for bending one end of a straight length of wire to bring it parallel with its length, a second winder forming a second bend of the wire to bring the part bent over thereby also parallel with its length, a former, means for folding or bending around the former the bent portion of the wire lying to one side thereof and the remaining straight or nnbent portion lying to the other side thereof to bring all straight portions of the wire parallel with each other, means for imparting a set to the second bend of the wire, and means for imparting a set to both sides of the final bend of the wire around the former.
+9. In a wire-bending machine for making a clip of the character herein described, the combination of mechanism for feeding agiven length of wire, means for severing it, means forholding the straight severed length of wire in position, mechanism for bending one end of the wire to bring the bent-over portion parallel with its length, mechanism for again bending the wire at or about midway of its length to again bring the bent-over portions parallel with its length, and mechanism for again bending the wire at a point intermediate its remaining end and the first bend formed therein, to bring all straight portions of the wire parallel with each other and thereby complete the bending of the clip.
+10. In a wire-bending machine for making a clip of the character herein described, the combination of mechanism for feeding a given length of wire, means for severing it, means for holding the straight severed length of wire in position, mechanism for bending one end of the Wire to bring the bent-over portion parallel with its length, mechanism for again bending the Wire at or about midway of its length to again bring the bent-over portions parallel with its length, mechanism for again bending the wire at a point intermediate its remaining end and the first bend formed therein, to bring all straight portions of the wire parallel with each other and thereby complete the bending of the-clip, means for imparting a set to the second bend of the wire and means for imparting a set to both sides of the final bend in the wire.
+11.. The combination of the block Y, separated plates D F, a rotatable endWise-movable winder A having the central pin a, and bending projection on, a second endwise-movable rotatable winder having the bending projection I) and an independently endwise-movable central pin b, the endwise-movable former 0 having a central pin, and mechanism for actuating the parts in the described sequence, substantially as and for the purpose set forth.
+In testimony whereof I have hereunto subscribed my name.
+WM. D. HIDDLEBROOK.
+Witnesses:
+EDWARD W. BEACH, WALTER PLACE.
+US71471299A
+1899-04-27
+1899-04-27
+Machine for making wire paper-clips.
+Expired - Lifetime
+US636272A
+(
+en
+)
+Priority Applications (1)
+Application Number
+Priority Date
+Filing Date
+Title
+US71471299A
+US636272A
+(
+en
+)
+1899-04-27
+1899-04-27
+Machine for making wire paper-clips.
+Applications Claiming Priority (1)
+Application Number
+Priority Date
+Filing Date
+Title
+US71471299A
+US636272A
+(
+en
+)
+1899-04-27
+1899-04-27
+Machine for making wire paper-clips.
+Publications (1)
+Publication Number
+Publication Date
+US636272A
+true
+US636272A
+              (
+en
+)
+1899-11-07
+Family
+ID=2704862
+Family Applications (1)
+Application Number
+Title
+Priority Date
+Filing Date
+US71471299A
+Expired - Lifetime
+US636272A
+(
+en
+)
+1899-04-27
+1899-04-27
+Machine for making wire paper-clips.
+Country Status (1)
+Country
+Link
+US
+(
+1
+)
+US636272A
+(
+en
+)
+Cited By (3)
+* Cited by examiner, † Cited by third party
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+US2578216A
+(
+en
+)
+*
+1947-03-17
+1951-12-11
+Western Wire Products Company
+Wire-forming machine
+USD661978S1
+(
+en
+)
+2011-04-21
+2012-06-19
+Mark Holechek
+Rope clip
+USD686490S1
+(
+en
+)
+*
+2012-05-15
+2013-07-23
+Liberty Hardware Mfg. Corp.
+Door stop
+1899
+1899-04-27
+US
+US71471299A
+patent/US636272A/en
+not_active
+Expired - Lifetime
+Cited By (3)
+* Cited by examiner, † Cited by third party
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+US2578216A
+(
+en
+)
+*
+1947-03-17
+1951-12-11
+Western Wire Products Company
+Wire-forming machine
+USD661978S1
+(
+en
+)
+2011-04-21
+2012-06-19
+Mark Holechek
+Rope clip
+USD686490S1
+(
+en
+)
+*
+2012-05-15
+2013-07-23
+Liberty Hardware Mfg. Corp.
+Door stop
+Similar Documents
+Publication
+Publication Date
+Title
+US592727A
+(
+en
+)
+1897-10-26
+S peters co
+US602931A
+(
+en
+)
+1898-04-26
+batey
+US375064A
+(
+en
+)
+1887-12-20
+graham
+US537472A
+(
+en
+)
+1895-04-16
+T tt xtttx
+US298204A
+(
+en
+)
+1884-05-06
+Wire-barbing machine
+US520735A
+(
+en
+)
+1894-05-29
+Machine
+US280682A
+(
+en
+)
+1883-07-03
+Machine for swaging needle-blanks
+US387710A
+(
+en
+)
+1888-08-14
+cbecelius
+US538037A
+(
+en
+)
+1895-04-23
+clapp
+US138419A
+(
+en
+)
+1873-04-29
+Improvement in machines for making needles
+US637288A
+(
+en
+)
+1899-11-21
+Stapling-machine.
+US757029A
+(
+en
+)
+1904-04-12
+Machine for making sheet-metal chain.
+US759217A
+(
+en
+)
+1904-05-03
+Metal-bending machine.
+US555635A
+(
+en
+)
+1896-03-03
+bement
+US444403A
+(
+en
+)
+1891-01-06
+tiffany
+US701178A
+(
+en
+)
+1902-05-27
+Nail-making machine.
+US335154A
+(
+en
+)
+1886-02-02
+Starling-machine
+US362452A
+(
+en
+)
+1887-05-03
+lenox
+US359522A
+(
+en
+)
+1887-03-15
+stoyer
+US302525A
+(
+en
+)
+1884-07-22
+Ments
+US969488A
+(
+en
+)
+1910-09-06
+Wire-bending machine.
+US314428A
+(
+en
+)
+1885-03-24
+Bottling-wire machine
+US639466A
+(
+en
+)
+1899-12-19
+Bale-tie machine.
+US760490A
+(
+en
+)
+1904-05-24
+Wire-bending machine.
+US384515A
+(
+en
+)
+1888-06-12
+Machine for making wire nails
+if (window.help && window.help.service) {
+        helpApi = window.help.service.Lazy.create(0, {apiKey: 'AIzaSyDTEI_0tLX4varJ7bwK8aT-eOI5qr3BmyI', locale: 'en-US'});
+        window.requestedSurveys = new Set();
+        window.requestSurvey = function(triggerId) {
+          if (window.requestedSurveys.has(triggerId)) {
+            return;
+          }
+          window.requestedSurveys.add(triggerId);
+          helpApi.requestSurvey({
+            triggerId: triggerId,
+            enableTestingMode: false,
+            callback: (requestSurveyCallbackParam) => {
+              if (!requestSurveyCallbackParam.surveyData) {
+                return;
+              }
+              helpApi.presentSurvey({
+                productData: {
+                  productVersion: window.version,
+                  customData: {
+                    "experiments": "",
+                  },
+                },
+                surveyData: requestSurveyCallbackParam.surveyData,
+                colorScheme: 1,
+                customZIndex: 10000,
+              });
+            }
+          });
+        };
+
+        window.requestSurvey('YXTwAsvoW0kedxbuTdH0RArc9VhT');
+      }
